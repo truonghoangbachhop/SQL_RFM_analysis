@@ -1,1 +1,1 @@
-# SQL_RFM_analysis
+# SQL_e-com_analysis
