@@ -1,1 +1,1 @@
-# SQL_e-com_analysis
+# E-commerce_RFM analysis_SQL
